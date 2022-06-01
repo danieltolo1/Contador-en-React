@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+
+}
+
+.btncontainer{
+  display: flex;
+  justify-content: center;
+  gap:10px
+}
+
+.numberc{
+  font-size: 50px;
+}
